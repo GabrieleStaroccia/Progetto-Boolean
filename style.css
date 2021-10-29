@@ -1,0 +1,52 @@
+body{background-image:url(background.jpg);
+  background-size: cover;
+}
+
+.logo{text-align: center;
+  width: 100%
+}
+
+.logo img{width:200px}
+
+.contenitore{background-color:rgba(0,0,0,0.3);
+  width: 50%;
+  margin:160px auto;
+  padding: 50px;
+
+}
+
+.pulsanti{background-color: limegreen;
+width: 100%;
+text-align: center;
+padding: 20px;
+
+}
+
+h1{color: limegreen;
+}
+
+h2{display: inline-block;
+  margin-bottom: 6px;
+}
+
+p{margin: 0;
+}
+
+.nomi{color: white;
+}
+
+.carica{height: 30px;
+border-radius: 10px;
+}
+
+.carica.uno{width: 40%;
+background-color: orange;
+}
+
+.carica.due{width: 70%;
+background-color: green;
+}
+
+.carica.tre{width: 20%;
+background-color: red;
+}
